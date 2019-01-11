@@ -1,0 +1,1 @@
+This is an electronic identify verification program which uses BlockScore's API .Also lets you to search a candidate /candidates on watchlists. So you can see if the user trying to register to your company/website is a terorist or not. 
